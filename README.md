@@ -1,5 +1,6 @@
 # dio-css-flexbox
-Projeto prático do curso posicionando elementos em CSS Flexbox 
+Projeto prático do curso 'Posicionando Elementos em CSS Flexbox' na plataforma DIO.
 
 
-Desenvolvimento de site responsivo com css totalmente desenvolvido do zero.
+Foi desenvolvido toda estrutura de CSS do site.
+O projeto conta com responsividade.
